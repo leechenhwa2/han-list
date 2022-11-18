@@ -13,7 +13,7 @@
 
 编辑在Windows 10系统中进行。编辑器为VS Code和Notepad++。
 
-![vscode screenshot 01](./screenshots/vscode01.png?raw=true "vscode01")
+![vscode screenshot 01](./screenshots/vscode01.png "vscode01")
 
 ### 切分用正则表达式示例
 ```vs code
