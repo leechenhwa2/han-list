@@ -22,6 +22,15 @@
 \n\n --> \n
 ```
 
+## 处理后格式
+```
+字序号,Unicode,字面,分级,拼音(空格分隔多音字)
+Z+0001,U+4E00,一,A,yī
+```
+分级：A B C 对应 一 二 三。   
+
+拼音是从Unicode Unihan 数据库中提取的。
+
 ## 字表介绍
 
 ```
@@ -37,5 +46,5 @@
 
 ## 参考
 1. [国务院关于公布《通用规范汉字表》的通知, 国发〔2013〕23号](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm)
-1. [教育部国家语委介绍《通用规范汉字表》研制情况, 2013年](http://www.gov.cn/jrzg/2013-08/27/content_2474971.htm)
-
+2. [教育部国家语委介绍《通用规范汉字表》研制情况, 2013年](http://www.gov.cn/jrzg/2013-08/27/content_2474971.htm)
+3. [Unicode Han Database (Unihan) tr38](http://www.unicode.org/reports/tr38/)
